@@ -1,0 +1,32 @@
+h1{
+    color:rgb(192, 123, 5);
+}
+body{
+    background-color: rgb(1, 1, 63);
+}
+p{
+    color:white;
+}
+div{
+    color:white;
+}
+h2{
+    color:rgb(192, 123, 5);
+
+}
+   a:link{
+       color:white;
+   }
+   a:visited{
+        color:rgb(192, 123, 5);
+   }
+   a:active{
+background-color:greenyellow;
+   }
+   a:hover{
+background-color:orange;
+   }
+   table{
+    color:white;
+   }   
+  

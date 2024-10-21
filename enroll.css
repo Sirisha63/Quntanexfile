@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(1, 1, 63);
+    color:rgb(192, 123, 5);
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 15% 20%;
+}
+input{
+    font-size: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    padding-left: 10px;
+}
+button{
+    background-color:white; 
+    font-size: 15px;
+    
+    margin-left: 50%;
+}
